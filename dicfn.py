@@ -1,4 +1,6 @@
 #!/usr/bin/python
+# Just a bunch of functions to create a list of passwords based on given wordlist
+
 import sys, datetime, os
 
 def getPrefixes():
